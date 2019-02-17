@@ -33,7 +33,7 @@
             "author": "trollguy87"
           }
         ],
-        "likes":0=2,
+        "likes":0,
         "image":"http://placekitten.com/g/2000/600",
         "createdOn":1408547127216
   },
@@ -53,7 +53,7 @@
             "author": "trollguy87"
           }
         ],
-        "likes":0=3,
+        "likes":3,
         "image":"http://placekitten.com/g/2000/600",
         "createdOn":1408547127216
   },
